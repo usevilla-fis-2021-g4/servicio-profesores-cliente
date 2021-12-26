@@ -1,0 +1,11 @@
+{
+  "name": "servicio_profesores_cliente",
+  "version": "1.0.0",
+  "description": "Client for profesores API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Brian Danilo Enriquez Caicedo y Juan Carlos Estrada Nieto",
+  "license": "ISC"
+}
